@@ -2,7 +2,7 @@
 Jasmine Garcia - 27 June 2025
 
 1. Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-   The DriverPass project was all about creating a system for a fictional driving school that wanted to modernize the way students book lessons, take practice tests, and track their progress. The client needed a system that worked for both the          students and the instructors, and that makde the whole experience easier to me - from registration to payment to confirmation. 
+   The DriverPass project was all about creating a system for a fictional driving school that wanted to modernize the way students book lessons, take practice tests, and track their progress. The client needed a system that worked for both the          students and the instructors, and that made the whole experience easier to me - from registration to payment to confirmation. 
    
 2. What did you do particularly well?
    I think I did a decent job of breaking down the user's needs and turning that into something that made sense on paper. I felt that my sequence diagram for booking a lesson turned out especially clear and detailed, and I felt confident submitting     it because it did a good job of showing the flow between the student, scheduler, and payment processor. I also made sure the business requirements document stayed organized and easy to follow, which really helped guide the rest of the design.
